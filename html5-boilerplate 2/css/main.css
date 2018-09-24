@@ -1,0 +1,76 @@
+/* General */
+
+body{
+	font-family: 'Nunito Sans', sans-serif;
+	line-height: 1.4;
+	color: ;
+
+
+}
+
+/* header */
+
+header{
+	padding: 1.5rem 5%;
+	background-color: tan;
+
+}
+
+.logo h1 {
+	font-family: 'Italiana', serif;
+	font-size: 2rem;
+	color: blue;
+}
+
+.menu a {
+	color: grey;
+	text-decoration: none; 
+}
+/* main content */
+
+main{
+	padding: 3rem 5%;
+
+}
+
+main h1{
+	font-family: 'Nunito Sans', sans-serif;
+	font-size: 3rem;
+	color: white;
+
+}
+/* column left */
+.col-left img{
+	width: 100%;
+}
+
+/* inner column */
+
+/* column right */
+
+/* ingredients list */
+.ingredients ul {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+ .ingredients li{
+ 	padding: .5rem 0;
+ 	border-top: 1px dotted #BDBDBD;
+ }
+
+/* footer */
+footer {
+	padding: 1.5rem 5%;
+	background-color: #bdbdbd;
+}
+footer p{
+	margin: 0;
+	color: #757575;
+}
+footer a{
+	text-decoration: none;
+	font-family: 'Italiana', sans-serif;
+	color: #ffffff;
+	background-color: #757575;
+}
